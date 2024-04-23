@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenchPress200&show_icons=true&theme=merko&border_radius=30px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=compact&border_radius=30px)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=compact&border_radius=30px&theme=merko)
 
 
 
