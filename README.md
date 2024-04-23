@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenchPress200&show_icons=true&theme=merko&border_radius=30px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=compact&border_radius=30px)
 
 
 
@@ -6,7 +7,7 @@
 
 
 
-
+<br>
 
 ### ⚔️ Stacks ⚔️
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/>
