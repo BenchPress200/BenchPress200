@@ -17,7 +17,7 @@
 <br>
 
 ## 📚 Studying 📚
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/) [![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/) [![Express](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)](https://expressjs.com/) <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"/>
 
 
 
