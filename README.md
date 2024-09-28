@@ -23,7 +23,7 @@
 
 ## 🚀 Archive
 
-#### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be) - N:N video chat Servece based on WebRTC
+#### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be) - N:N video chat Service based on WebRTC
 ```
 description
 ```
@@ -34,8 +34,32 @@ description
 
 
 ## ⚔️ Stacks
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"> [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)](https://spring.io/) <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&
+logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&
+logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&
+logoColor=white">
+
+<br>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&
+logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&
+logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&
+logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&
+logoColor=white">
+
+
+
 
 
 
