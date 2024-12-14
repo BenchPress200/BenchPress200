@@ -27,7 +27,7 @@ I’m a developer interested in backend development
 >#### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)  
 >N:N study cam service based on WebRTC
 
->#### 📸 [Photique]()    
+>#### 📸 [Photique](https://github.com/photique-project)    
 > In progress.....
 
 
