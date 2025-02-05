@@ -1,28 +1,44 @@
-## 🍎 Intro
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:193294,30:2041c5,75:2450ff,100:000000&height=100&section=header&text=&fontSize=0" width="100%"/>
 
+<!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Minseong+Jeong;Backend+developer" alt="Typing SVG" /></a>
+
+<!-- Introdction -->
 ```
-👋🏻 Hi there ! 
-I’m a developer interested in backend development
+I majored in software engineering and have studied programming since 2022. 
+
+I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it, but I also study frontend development to improve my ability to collaborate and communicate effectively with frontend developers.
 ```
 
+<!-- Stat -->
 
-
-
-
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=BenchPress200&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</div>
+<div align=center>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BenchPress200&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</div>
 
 
 <br><br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenchPress200&show_icons=true&theme=merko&border_radius=30px)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=compact&border_radius=30px&theme=merko)
+### 🛠️ Stacks
+<span>
+    <img src="https://img.shields.io/badge/ Java-ea902a?style=flat&logo=OpenJDK&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</span>
 
 
 <br><br>
 
-
-## 🚀 Archive
+### 🚀 Project
 
 >#### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)  
 >N:N study cam service based on WebRTC
@@ -32,28 +48,31 @@ I’m a developer interested in backend development
 
 
 
-
-<br><br>
-
-
-## ⚔️ Stacks
-<img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">  
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  
-<img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<br><br><br><br>
 
 
 
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,10:193294,30:2041c5,75:2450ff,100:000000&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<!-- Hits -->
+<div align=center>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenchPress200&count_bg=%23586AFF&title_bg=%2320232a&icon=nextdoor.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/>
+</div>
 
 
 
 
 
 
-<br><br><br><br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenchPress200&count_bg=%2379C83D&title_bg=%23555555&icon=nextdoor.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+
+
 
 
 
