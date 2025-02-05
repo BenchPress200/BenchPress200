@@ -7,7 +7,7 @@
 <!-- Introdction -->
 
 **I majored in software engineering and have studied programming since 2022.**<br>
-**I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it**
+**I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it.**
 
 
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-### 🛠️ Stacks
+### 🛠️ Stack
 <span>
     <img src="https://img.shields.io/badge/ Java-ea902a?style=flat&logo=OpenJDK&logoColor=white"/>
 </span>
