@@ -5,11 +5,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Minseong+Jeong;Backend+developer" alt="Typing SVG" /></a>
 
 <!-- Introdction -->
-```
+
 I majored in software engineering and have studied programming since 2022. 
 
-I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it, but I also study frontend development to improve my ability to collaborate and communicate effectively with frontend developers.
-```
+I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it
+
+
+<br>
 
 <!-- Stat -->
 
