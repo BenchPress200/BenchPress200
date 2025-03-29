@@ -57,10 +57,10 @@
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,10:193294,30:2041c5,75:2450ff,100:000000&height=40&section=footer&text=&fontSize=0" width="100%"/>
-<!-- Hits -->
-<div align=center>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenchPress200&count_bg=%23586AFF&title_bg=%2320232a&icon=nextdoor.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/>
-</div>
+
+
+
+
 
 
 
