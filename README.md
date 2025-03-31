@@ -26,7 +26,7 @@
 
 <br><br>
 
-### 🛠️ Stack
+## 🛠️ Stack
 <span>
     <img src="https://img.shields.io/badge/ Java-ea902a?style=flat&logo=OpenJDK&logoColor=white"/>
 </span>
@@ -40,13 +40,24 @@
 
 <br><br>
 
-### 🚀 Project
+## 🚀 Project
 
->#### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)  
+>### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)  
 >N:N study cam service based on WebRTC
 
->#### 📸 [Photique](https://github.com/photique-project)    
+>### 📸 [Photique](https://github.com/photique-project)    
 > In progress.....
+
+
+
+<br><br>
+
+
+## Contact
+✉️ Mail - jms3847@gmail.com
+<br>
+👾 Discord - ian_0430
+
 
 
 
