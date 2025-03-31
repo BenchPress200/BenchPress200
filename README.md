@@ -53,10 +53,10 @@
 <br><br>
 
 
-## Contact
-✉️ Mail - jms3847@gmail.com
+## 📞 Contact
+✉️ Mail: jms3847@gmail.com
 <br>
-👾 Discord - ian_0430
+👾 Discord: ian_0430
 
 
 
