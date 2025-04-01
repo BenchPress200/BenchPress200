@@ -54,9 +54,9 @@
 
 
 ## 📞 Contact
-- ✉️ Email - jms3847@gmail.com
+- **✉️ Email:** jms3847@gmail.com
 
-- 👾 Discord - ian_0430
+- **👾 Discord:** ian_0430
 
 
 
