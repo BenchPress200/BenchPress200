@@ -1,9 +1,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:193294,30:2041c5,75:2450ff,100:000000&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Minseong+Jeong;Backend+developer" alt="Typing SVG" /></a>
-
 <!-- Introdction -->
 
 **I majored in software engineering and have studied programming since 2022.**<br>
@@ -42,10 +39,10 @@
 
 ## 🚀 Project
 
->### 🫐 [Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)  
->N:N study cam service based on WebRTC
+> ### [🫐 Blueberry](https://github.com/BenchPress200/5-bluestarfish-blueberry-be)
+> N:N study cam service based on WebRTC
 
->### 📸 [Photique](https://github.com/photique-project)    
+>### [📸 Photique](https://github.com/photique-project)
 > In progress.....
 
 
@@ -54,11 +51,8 @@
 
 
 ## 📞 Contact
-- **✉️ Email:** jms3847@gmail.com
-
-- **👾 Discord:** ian_0430
-
-
+[<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/>](mailto:jms3847@gmail.com)<br>
+[<img alt="Discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white"/>](https://discord.gg/QnEjGV9y)
 
 
 <br><br><br><br>
