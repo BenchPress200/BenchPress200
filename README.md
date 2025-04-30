@@ -52,7 +52,7 @@
 
 ## 📞 Contact
 [<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=gmail&logoColor=white"/>](mailto:jms3847@gmail.com)<br>
-[<img alt="Discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white"/>](https://discord.gg/QnEjGV9y)
+[<img alt="Discord" src ="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white"/>](https://discord.gg/ZXk4zCExDz)
 
 
 <br><br><br><br>
