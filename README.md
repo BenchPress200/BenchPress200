@@ -43,7 +43,7 @@
 > N:N study cam service based on WebRTC
 
 >### [📸 Photique](https://github.com/photique-project)
-> In progress.....
+> Photo Community
 
 
 
