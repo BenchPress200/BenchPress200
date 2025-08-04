@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:193294,30:2041c5,75:2450ff,100:000000&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <!-- Introdction -->
-
-**I majored in software engineering and have studied programming since 2022.**<br>
-**I have worked on various web projects so far. I have an interest in backend development and have been consistently studying it.**
+## 🙂
 
 
 
