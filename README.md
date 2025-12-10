@@ -3,7 +3,7 @@
 
 <!-- Introdction -->
 <div align=center>
-    <img src="https://github.com/user-attachments/assets/18a18a88-a23b-413a-846a-1c22f24af94d" width="10%"/>
+    <img src="https://github.com/user-attachments/assets/18a18a88-a23b-413a-846a-1c22f24af94d" width="20%"/>
 </div>
 
 
@@ -11,13 +11,17 @@
 <br><br>
 
 <!-- Stat -->
-
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenchPress200&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=BenchPress200&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</div>
-<div align=center>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BenchPress200&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BenchPress200&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" />
+    </td>
+    <td width="60%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BenchPress200&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" />
+    </td>
+  </tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BenchPress200&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </div>
 
 
